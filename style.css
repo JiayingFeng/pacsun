@@ -1,0 +1,45 @@
+
+.ui.borderless.topmenu.menu{
+background-color: black;
+  color:white;
+}
+.ui.middlemenu.menu{
+  box-shadow: none;
+  border: none;
+  height: 50px;
+}
+.ui.menuitem.menu{
+  border: none;
+  box-shadow:none;
+}
+.mytext {
+  color: white;
+  font-family:Oswald;
+  font-size: small;
+}
+.mytext2{
+  font-family: Open+Sans;
+  font-size: medium;
+}
+#track {
+  color: white;
+}
+
+a.mytext2 {
+  margin-top: 25px;
+  font-size: xx-large;
+  color: black;
+}
+#track2{
+  color:white;
+}
+#track3{
+  color:white;
+}
+#track4{
+  color:white;
+}
+.footer-background{
+  background-color: darkgrey;
+  margin-top: 20px;
+}
